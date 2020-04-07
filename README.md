@@ -1,7 +1,7 @@
 # K-Means Color Palette Visualization
 ### Color palette generation using K-means clustering; further 3D RGB space visualization. 
 
-![](colorpalette_rot.png)
+![](colorpalette_rot2.png)
 
 ## How it works
 
@@ -23,7 +23,7 @@
 
 #### Generated colors from K-Means model
 
-![](colorpalette_rot.png)
+![](colorpalette_rot2.png)
 
 #### Visualization of generated colors in 3D RGB space
 ![](kmeans.PNG)
